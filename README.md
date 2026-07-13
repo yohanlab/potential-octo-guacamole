@@ -136,12 +136,6 @@ The following preprocessing steps were performed:
 **Insight**
 - North recorded the highest profit.
 
-## Profit by Region
-
-<img src="profit_region.png" width="750">
-
-**Insight**
-- North recorded the highest profit.
 
 ## Top Profitable Products
 
