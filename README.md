@@ -106,7 +106,7 @@ The following preprocessing steps were performed:
 
 ## Revenue by Region
 
-print('h)
+<p>hi</p>
 
 **Insight**
 - North generated the highest revenue.
