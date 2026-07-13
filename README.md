@@ -102,7 +102,7 @@ The following preprocessing steps were performed:
 
 ---
 
-## 📷charts visualizations
+## 📊 Key Visualizations
 
 ## Revenue by Region
 
