@@ -107,7 +107,7 @@ The following preprocessing steps were performed:
 ## Revenue by Region
 
 <p align="center">
-<img src="images/revenue_region.png" width="700">
+<img src="images/revenue_Region.png" width="700">
 </p>
 
 **Insight**
