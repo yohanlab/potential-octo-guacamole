@@ -106,7 +106,9 @@ The following preprocessing steps were performed:
 
 ## Revenue by Region
 
-<img src="images/revenue_Region.png" width="700">
+<p align="center">
+<img src="images/revenue_region.png" width="700">
+</p>
 
 **Insight**
 - North generated the highest revenue.
