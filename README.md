@@ -36,7 +36,7 @@ The dataset contains information about e-commerce orders, including:
 
 - Order Date
 - Product Name
-- Category
+- Category  
 - Region
 - Ship Mode
 - Quantity
@@ -107,7 +107,7 @@ The following preprocessing steps were performed:
 ## Revenue by Region
 
 <p align="center">
-<img src="images/revenue_Region.png" width="700">
+<img src="revenue_Region.png" width="700">
 </p>
 
 **Insight**
