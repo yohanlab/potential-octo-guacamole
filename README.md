@@ -134,7 +134,7 @@ The following preprocessing steps were performed:
 <img src="profit_region.png" width="750">
 
 **Insight**
-- North recorded the highest profit.
+-North generated the highest revenue, indicating stronger market demand compared to other regions.
 
 
 ## Top Profitable Products
@@ -149,7 +149,7 @@ The following preprocessing steps were performed:
 <img src="revenue_Ship Mode.png" width="750">
 
 **Insight**
-- Standard Shipping is the most preferred shipping option.
+-Standard Shipping handled the majority of orders, suggesting customers prioritize cost-effective delivery over faster shipping.
 
 
 ## 📷 Visualizations
