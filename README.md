@@ -136,7 +136,27 @@ The following preprocessing steps were performed:
 **Insight**
 - North recorded the highest profit.
 
+## Profit by Region
+
+<img src="profit_region.png" width="750">
+
+**Insight**
+- North recorded the highest profit.
+
+## Top Profitable Products
+
+<img src="images/profit_product.png" width="750">
+
+**Insight**
+- Running Shoes generated the highest profit.
   
+## Orders by Ship Mode
+
+<img src="revenue_Ship Mode.png" width="750">
+
+**Insight**
+- Standard Shipping is the most preferred shipping option.
+
 
 ## 📷 Visualizations
 
