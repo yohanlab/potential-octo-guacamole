@@ -102,6 +102,16 @@ The following preprocessing steps were performed:
 
 ---
 
+## 📷charts visualizations
+
+## Revenue by Region
+
+print('h)
+
+**Insight**
+- North generated the highest revenue.
+- West contributed the least revenue.
+
 ## 📷 Visualizations
 
 The project includes multiple visualizations such as:
