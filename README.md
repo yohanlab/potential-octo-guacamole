@@ -131,7 +131,7 @@ The following preprocessing steps were performed:
 
 ## Profit by Region
 
-<img src="profit_Region.png" width="750">
+<img src="profit_region.png" width="750">
 
 **Insight**
 - North recorded the highest profit.
