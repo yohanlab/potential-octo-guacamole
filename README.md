@@ -106,13 +106,21 @@ The following preprocessing steps were performed:
 
 ## Revenue by Region
 
-<p align="center">
-<img src="revenue_Region.png" width="700">
-</p>
+<img src="revenue_Region.png" width="750">
 
 **Insight**
 - North generated the highest revenue.
 - West contributed the least revenue.
+
+
+## Revenue by Category
+
+<img src="revenue_Category.png" width="750">
+
+**Insight**
+- Electronics generated the highest revenue.
+- Beauty generated the lowest revenue.
+  
 
 ## 📷 Visualizations
 
