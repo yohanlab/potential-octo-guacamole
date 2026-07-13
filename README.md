@@ -145,7 +145,7 @@ The following preprocessing steps were performed:
 
 ## Top Profitable Products
 
-<img src="images/profit_product.png" width="750">
+<img src="profit_product.png" width="750">
 
 **Insight**
 - Running Shoes generated the highest profit.
