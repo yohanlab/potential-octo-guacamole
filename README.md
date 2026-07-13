@@ -128,6 +128,14 @@ The following preprocessing steps were performed:
 
 **Insight**
 - Revenue peaked during November and December.
+
+## Profit by Region
+
+<img src="profit_Region.png" width="750">
+
+**Insight**
+- North recorded the highest profit.
+
   
 
 ## 📷 Visualizations
