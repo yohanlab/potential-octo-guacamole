@@ -120,6 +120,14 @@ The following preprocessing steps were performed:
 **Insight**
 - Electronics generated the highest revenue.
 - Beauty generated the lowest revenue.
+
+
+## Revenue Trend by Month
+
+<img src="revenue_Month.png" width="750">
+
+**Insight**
+- Revenue peaked during November and December.
   
 
 ## 📷 Visualizations
